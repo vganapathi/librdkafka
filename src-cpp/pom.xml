@@ -15,7 +15,7 @@
     </parent>
 
     <groupId>com.github.edenhill.src-cpp</groupId>
-    <artifactId>src-cpp</artifactId>
+    <artifactId>rdkafkacpp</artifactId>
     <packaging>nar</packaging>
 
     <dependencies>
